@@ -20,12 +20,12 @@ function App() {
          <h1> Interno</h1>
           </div>
       <ul>
-        <li>Home</li>
-        <li>Pages</li>
-        <li>Services</li>
-        <li>Project</li>
-        <li>Blog</li>
-        <li>Contact</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Pages</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Project</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
     </nav>
     </div>
